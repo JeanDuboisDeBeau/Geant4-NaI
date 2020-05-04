@@ -1,0 +1,2 @@
+D:\ISIB\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\ISIB\C++\ConsoleApplication1\Debug\ConsoleApplication1.pdb
